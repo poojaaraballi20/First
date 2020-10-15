@@ -1,0 +1,4 @@
+gcloud init
+gcloud auth list
+gcloud config list
+gcloud info
